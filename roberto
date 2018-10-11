@@ -1,0 +1,8 @@
+public class Roberto_jaja {
+
+	public static void main(String[] args) {
+		
+	System.out.println("Bueno día");
+
+  }
+}
